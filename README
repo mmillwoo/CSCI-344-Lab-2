@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="mystyle.css" />
+	</head>
+
+	<body>
+		<div class = "container">
+			<div class = "header_top_of_the_page">
+				<div class = "row">
+					<div class = "span3">
+						<b>Logo</b>
+						</div>
+					<div class = "span9 offset4">
+						<ul class="pills">
+								<li class="active"><a href="#">Home</a></li>
+								<li><a href="#">Profile</a></li>
+								<li><a href="#">Messages</a></li>
+								<li><a href="#">Settings</a></li>
+								<li><a href="#">Contact</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class = "spacer">
+			</div>
+			<div class = "mainbody">
+				<div class = "span6">
+					PROJECT AWESOME
+				</div>
+			</div>
+
+	</body>
+
+
+
+</html>
